@@ -4,6 +4,8 @@ gem 'rake', '13.2.1'
 gem 'asciidoctor', '2.0.22'
 
 gem 'json', '2.9.1'
+gem 'bigdecimal'
+gem 'base64'
 gem 'awesome_print', '1.9.2'
 
 gem 'asciidoctor-fb2', '0.7.0'
